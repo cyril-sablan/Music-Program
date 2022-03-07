@@ -1,6 +1,7 @@
 # Music-Program
 Lesson
 
-I love meditation music and electic music playlists
+I love mediation music and eclectic music play lists
 
 Here are the songs I will find
+- 
